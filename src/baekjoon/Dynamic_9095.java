@@ -2,7 +2,7 @@ package baekjoon;
 import java.util.Scanner;
 
 //백준 1,2,3 더하기 9095
-public class Baek_Dynamic_9095 {
+public class Dynamic_9095 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

@@ -2,7 +2,7 @@ package baekjoon;
 import java.util.Scanner;
 
 //백준 피보나치 함수 1003
-public class Baek_Dynamic_1003 {
+public class Dynamic_1003 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

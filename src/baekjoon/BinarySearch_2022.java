@@ -2,7 +2,7 @@ package baekjoon;
 import java.util.Scanner;
 
 //백준 2022 사다리
-public class Baek_binarySearch_2022 {
+public class BinarySearch_2022 {
 	static double x;
 	static double y;
 	static double c;

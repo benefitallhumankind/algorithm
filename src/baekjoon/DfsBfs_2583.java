@@ -3,7 +3,7 @@ import java.util.PriorityQueue;
 import java.util.Scanner;
 
 //백준 영역구하기 2583
-public class Baek_DfsBfs_2583 {
+public class DfsBfs_2583 {
 	static int M, N, K;
 	static int[][] map;
 	static boolean[][] visited;

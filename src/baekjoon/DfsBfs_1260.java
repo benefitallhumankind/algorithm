@@ -5,7 +5,7 @@ import java.util.Scanner;
 import java.util.Stack;
 
 //백준 DFS와 BFS 1260
-public class Baek_DfsBfs_1260 {
+public class DfsBfs_1260 {
 	static int N; // 정점의 개수
 	static int M; // 간선의 개수
 	static int V; // 시작할 정점번호

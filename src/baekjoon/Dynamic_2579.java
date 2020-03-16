@@ -2,7 +2,7 @@ package baekjoon;
 import java.util.Scanner;
 
 //백준 계단오르기 2579
-public class Baek_Dynamic_2579 {
+public class Dynamic_2579 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

@@ -4,7 +4,7 @@ import java.util.Queue;
 import java.util.Scanner;
 
 //백준 미로 탐색 2178
-public class Baek_DfsBfs_2178 {
+public class DfsBfs_2178 {
 	static int N; //높이
 	static int M; //너비
 	static int[][] map;	//지도

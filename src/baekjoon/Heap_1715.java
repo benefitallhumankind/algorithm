@@ -3,7 +3,7 @@ import java.util.PriorityQueue;
 import java.util.Scanner;
 
 //백준 카드정렬하기 1715
-public class Baek_Heap_1715 {
+public class Heap_1715 {
 
 	public static void main(String[] args) {
 		PriorityQueue<Integer> heap = new PriorityQueue<Integer>();

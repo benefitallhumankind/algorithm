@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //백준 단지번호 붙이기 2667
 
-public class Baek_DfsBfs_2667 {
+public class DfsBfs_2667 {
 	static int[][] map;	//지도
 	static boolean[][] visited;	//방문체크 배열
 	static int[] dx = {1,-1,0,0};	//x좌표 변화량

@@ -2,7 +2,7 @@ package baekjoon;
 import java.util.Scanner;
 
 //백준 경로찾기 11403
-public class Baek_DfsBfs_11403 {
+public class DfsBfs_11403 {
 	static int N;	//정점의 개수
 	static int[][] arr;	//주어진결과 배열에 결과를 덮어쓴다
 	static boolean[] visited;	//해당 행을 방문했는지 확인

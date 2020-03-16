@@ -4,7 +4,7 @@ import java.util.Queue;
 import java.util.Scanner;
 
 //백준 3187 양치기 꿍 (BFS)
-public class Baek_DfsBfs_3187 {
+public class DfsBfs_3187 {
 	static int r,c;	//전체 영역의 row, column
 	static char area[][];	//전체 영역
 	static boolean[][] visited;	//방문기록

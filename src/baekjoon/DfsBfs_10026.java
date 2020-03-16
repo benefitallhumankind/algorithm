@@ -4,7 +4,7 @@ import java.util.Queue;
 import java.util.Scanner;
 
 //백준 10026 적록 색약 (BFS)
-public class Baek_DfsBfs_10026 {
+public class DfsBfs_10026 {
 	static int N;	//가로세로
 	static char pic[][];	//전체 영역
 	static boolean[][] visited;	//방문기록

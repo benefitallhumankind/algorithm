@@ -4,7 +4,7 @@ import java.util.Queue;
 import java.util.Scanner;
 
 //백준 10451 순열 사이클
-public class Baek_DfsBfs_10451 {
+public class DfsBfs_10451 {
 
 	public static void main(String[] args) {
 		Scanner scan= new Scanner(System.in);

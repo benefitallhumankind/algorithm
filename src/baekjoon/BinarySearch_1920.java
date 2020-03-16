@@ -2,7 +2,7 @@ package baekjoon;
 import java.util.Scanner;
 
 //백준 1920 수 찾기
-public class Baek_binarySearch_1920 {
+public class BinarySearch_1920 {
 	static int[] arr;
 	
 	public static void main(String[] args) {

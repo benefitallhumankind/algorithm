@@ -4,7 +4,7 @@ import java.util.Queue;
 import java.util.Scanner;
 
 //백준 9372 상근이의 여행 (최소 스패닝 트리 MST, BFS)
-public class Baek_DfsBfs_9372 {
+public class DfsBfs_9372 {
 	
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

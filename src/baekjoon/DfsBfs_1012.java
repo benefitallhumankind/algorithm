@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 //백준 유기농 배추 1012
 //런타임 에러, 시간초과 - visited를 사용하는 것 대신 1을 0 으로 변경하는 방법 사용
-public class Baek_DfsBfs_1012 {
+public class DfsBfs_1012 {
 	static int T; // 테스트 케이스 수
 	static int M, N, K; // 가로 세로 배추
 	static int worm; // 벌레 수

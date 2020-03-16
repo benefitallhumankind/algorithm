@@ -2,7 +2,7 @@ package baekjoon;
 import java.util.Scanner;
 
 //백준 6603 로또
-public class Baek_DfsBfs_6603 {
+public class DfsBfs_6603 {
 
 	public static void main(String[] args) {
 		Scanner scan= new Scanner(System.in);

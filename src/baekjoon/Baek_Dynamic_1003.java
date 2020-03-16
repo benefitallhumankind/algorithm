@@ -1,4 +1,4 @@
-package baekjun;
+package baekjoon;
 import java.util.Scanner;
 
 //백준 피보나치 함수 1003

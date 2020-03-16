@@ -1,4 +1,4 @@
-package baekjun;
+package baekjoon;
 import java.util.Scanner;
 
 //백준 1,2,3 더하기 9095

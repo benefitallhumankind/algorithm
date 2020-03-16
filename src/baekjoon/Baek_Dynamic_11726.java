@@ -1,4 +1,4 @@
-package baekjun;
+package baekjoon;
 import java.util.Scanner;
 
 //백준 2xn 타일링 11726

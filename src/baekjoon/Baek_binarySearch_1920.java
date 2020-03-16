@@ -1,4 +1,4 @@
-package baekjun;
+package baekjoon;
 import java.util.Scanner;
 
 //백준 1920 수 찾기

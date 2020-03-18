@@ -3,7 +3,6 @@ package baekjoon;
 import java.util.Scanner;
 
 //쉬운 계단 수
-
 public class Dynamic_10844 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

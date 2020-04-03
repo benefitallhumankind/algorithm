@@ -3,7 +3,7 @@ package baekjoon;
 import java.util.Scanner;
 
 //파도반 수열
-public class Dynamic_9461 {
+public class DP_9461 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int n = scan.nextInt();

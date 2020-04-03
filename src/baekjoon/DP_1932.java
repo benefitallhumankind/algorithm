@@ -3,7 +3,7 @@ package baekjoon;
 import java.util.Scanner;
 
 //정수 삼각형 1932
-public class Dynamic_1932 {	// 패키지 때문에 런타임 에러
+public class DP_1932 {	// 패키지 때문에 런타임 에러
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int max = 0;

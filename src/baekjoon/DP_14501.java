@@ -3,7 +3,7 @@ package baekjoon;
 import java.util.Scanner;
 
 //퇴사
-public class Dynamic_14501 {
+public class DP_14501 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

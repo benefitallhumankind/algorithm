@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 //가장 긴 증가하는 부분 수열
-public class Dynamic_11053 {
+public class DP_11053 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int n = scan.nextInt();

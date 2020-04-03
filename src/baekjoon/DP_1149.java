@@ -2,7 +2,7 @@ package baekjoon;
 import java.util.Scanner;
 
 //백준 RGB거리 1149
-public class Dynamic_1149 {
+public class DP_1149 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

@@ -3,7 +3,7 @@ package baekjoon;
 import java.util.Scanner;
 
 //포도주 시식
-public class Dynamic_2156 {
+public class DP_2156 {
 	public static void main(String[] args){
 		Scanner scan = new Scanner(System.in);
 		int n = scan.nextInt();

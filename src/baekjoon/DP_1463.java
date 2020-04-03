@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 //백준 1로만들기 1463 다이나믹 프로그래밍
 // 시간초과 
-public class Dynamic_1463 {
+public class DP_1463 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

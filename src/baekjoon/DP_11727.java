@@ -3,7 +3,7 @@ package baekjoon;
 import java.util.Scanner;
 
 //2xn 타일링2
-public class Dynamic_11727 {
+public class DP_11727 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int n = scan.nextInt();

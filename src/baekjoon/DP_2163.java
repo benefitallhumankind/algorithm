@@ -3,7 +3,7 @@ package baekjoon;
 import java.util.Scanner;
 
 //초콜릿 자르기
-public class Dynamic_2163 {
+public class DP_2163 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int n = scan.nextInt();
